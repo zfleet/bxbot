@@ -1,7 +1,5 @@
 ## What is BX-bot?
 
-<img src="https://github.com/gazbert/bxbot/blob/master/docs/bxbot-cropped.png" align="right" width="280" />
-
 BX-bot (_Bex_) is a simple [Bitcoin](https://bitcoin.org) trading bot written in Java for trading on cryptocurrency [exchanges](https://bitcoinwisdom.com/).
 
 The project contains the basic infrastructure to trade on a [cryptocurrency](http://coinmarketcap.com/) exchange...
